@@ -1,0 +1,44 @@
+{
+  "name": "cacko/yii2-widget-video",
+  "description": "Yii2 widget video",
+  "license": "MIT",
+  "type": "yii2-extension",
+  "authors": [
+    {
+      "name": "cacko",
+      "email": "dev@cacko.net"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Cacko\\Yii2\\Widgets\\Video\\": "src/"
+    }
+  },
+  "extra": {
+    "bootstrap": "Cacko\\Yii2\\Widgets\\Video\\Bootstrap"
+  },
+  "require": {
+    "php": "~7.4",
+    "yiisoft/yii2": "~2.0.38",
+    "guzzlehttp/guzzle": "^7.2",
+    "ua-parser/uap-php": "^3.9",
+    "yiisoft/yii2-bootstrap4": "^2.0",
+    "scssphp/scssphp": "^1.4",
+    "cacko/yii2-widget-fullscreen": "^0.3.2",
+    "cacko/yii2-requirejs": "^0.1.1"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/cacko/yii2-requirejs",
+      "name": "cacko/yii2-requirejs"
+    }
+  ],
+  "require-dev": {
+    "clean/phpdoc-md": "^0.19.1"
+  }
+}
