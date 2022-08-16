@@ -33,9 +33,11 @@
       "url": "https://asset-packagist.org"
     },
     {
-      "type": "vcs",
-      "url": "https://github.com/cdvcol/yii2-requirejs",
-      "name": "cdvcol/yii2-requirejs"
+        "type": "vcs",
+        "url": "https://github.com/cdvcol/yii2-requirejs"
     }
-  ]
+  ],
+  "require-dev": {
+    "clean/phpdoc-md": "^0.19.1"
+  }
 }
