@@ -11,11 +11,11 @@
   ],
   "autoload": {
     "psr-4": {
-      "Cacko\\Yii2\\Widgets\\Video\\": "src/"
+      "Cdvcol\\Yii2\\Widgets\\Video\\": "src/"
     }
   },
   "extra": {
-    "bootstrap": "Cacko\\Yii2\\Widgets\\Video\\Bootstrap"
+    "bootstrap": "Cdvcol\\Yii2\\Widgets\\Video\\Bootstrap"
   },
   "require": {
     "php": "~8.1",
