@@ -4,8 +4,8 @@ namespace Cacko\Yii2\Widgets\Video;
 
 use Cacko\Yii2\RequireJs\RequireJsAsset;
 use Cacko\Yii2\Widgets\FullScreen\FullScreenAsset;
-use yii\bootstrap4\BootstrapAsset;
-use yii\bootstrap4\BootstrapPluginAsset;
+use yii\bootstrap5\BootstrapAsset;
+use yii\bootstrap5\BootstrapPluginAsset;
 use yii\helpers\Json;
 use yii\web\AssetBundle;
 use yii\web\JqueryAsset;
