@@ -29,8 +29,8 @@
     "symfony/deprecation-contracts": "^3.1.0",
     "npm-asset/bootstrap": ">=5.1",
     "yiisoft/yii2-bootstrap5": "@dev",
-    "cdvcol/yii2-widget-fullscreen": "^0.3.2",
-    "cdvcol/yii2-requirejs": "^0.1.1",
+    "cdvcol/yii2-widget-fullscreen": "~0.3.2",
+    "cdvcol/yii2-requirejs": "~0.3.1",
     "symfony/polyfill-php72": "^1.25.0",
     "symfony/polyfill-intl-normalizer": "^1.25.0",
     "symfony/polyfill-intl-idn": "^1.25.0"
