@@ -28,7 +28,7 @@
     "scssphp/scssphp": "^1.10.0",
     "symfony/deprecation-contracts": "^3.1.0",
     "npm-asset/bootstrap": "^4.6",
-    "yiisoft/yii2-bootstrap5": "dev",
+    "yiisoft/yii2-bootstrap5": "^5.1",
     "cacko/yii2-widget-fullscreen": "^0.3.2",
     "cacko/yii2-requirejs": "^0.1.1",
     "symfony/polyfill-php72": "^1.25.0",
